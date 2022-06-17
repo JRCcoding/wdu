@@ -1,3 +1,13 @@
-body {
-    background-color:blue;
+
+middle-container {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+
+bottom-container {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
 }
