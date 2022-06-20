@@ -1,6 +1,12 @@
 body {
-    display: block;
+    margin: 0;
+    text-align: center;
 }
+
+.top-container {
+    
+}
+
 .middle-container {
     height: 200px;
     width: 200px;
@@ -17,3 +23,4 @@ body {
 .dev {
     text-decoration: underline;
 }
+
