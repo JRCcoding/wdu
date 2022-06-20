@@ -7,6 +7,15 @@ body {
     
 }
 
+.top-cloud {
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    
+}
+
 .middle-container {
     height: 200px;
     width: 200px;
