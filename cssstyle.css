@@ -14,13 +14,17 @@ body {
 .bottom-cloud {
     position: absolute;
     left: 15%;
-    top: 45%;
-    
+    top: 35%;
+}
+
+.extra-cloud {
+    position: absolute;
+    left: 35%;
+    top: 55%;
 }
 
 .mountainimg {
-    justify-content: center;
-    align-items: center;
+    margin-top: 22%;
 }
 
 .top-container {
