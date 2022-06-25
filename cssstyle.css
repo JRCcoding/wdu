@@ -7,20 +7,20 @@ body {
 
 .top-cloud {
     position: absolute;
-    right: 15%;
+    right: 10%;
+    top: 10%;
 }
 
 .bottom-cloud {
     position: absolute;
-    top: 35%;
-    left: auto;
+    left: 15%;
+    top: 45%;
     
 }
 
-.mountain {
-    position: absolute;
-    bottom: 0;
-    left: auto;
+.mountainimg {
+    justify-content: center;
+    align-items: center;
 }
 
 .top-container {
