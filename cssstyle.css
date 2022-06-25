@@ -3,9 +3,7 @@ body {
     text-align: center;
 }
 
-.top-container {
-    
-}
+
 
 .top-cloud {
 
@@ -13,20 +11,19 @@ body {
 
 .bottom-cloud {
     position: absolute;
+    bottom: 0;
+    left: auto;
+    
+}
+
+.top-container {
     
 }
 
 .middle-container {
-    height: 200px;
-    width: 200px;
-    background-color: black;
-    color: white;
 }
 
 .bottom-container {
-    height: 200px;
-    width: 200px;
-    background-color: yellow;
 }
 
 .dev {
