@@ -11,9 +11,15 @@ body {
 
 .bottom-cloud {
     position: absolute;
-    bottom: 0;
+    top: 35%;
     left: auto;
     
+}
+
+.mountain {
+    position: absolute;
+    bottom: 0;
+    left: auto;
 }
 
 .top-container {
