@@ -16,6 +16,13 @@ body {
     text-decoration: none;
 }
 
+h2.navitem {
+    float: left;
+}
+p.navitem {
+    float:right;
+}
+
 .top-cloud {
     position: absolute;
     right: 10%;
