@@ -18,9 +18,11 @@ body {
 
 h2.navitem {
     float: left;
+    height: auto;
 }
 p.navitem {
     float:right;
+    height: auto;
 }
 
 .top-cloud {
