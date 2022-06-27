@@ -23,6 +23,7 @@ body {
     display: inline;
     text-decoration: none;
     float:right;
+    padding: 0 5px;
 }
 
 .top-cloud {
