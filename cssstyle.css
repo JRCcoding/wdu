@@ -23,7 +23,7 @@ h3.navitem {
 }
 p.navitem {
     float:right;
-    height: auto;
+    height: 18px;
 }
 
 .top-cloud {
