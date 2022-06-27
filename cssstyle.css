@@ -16,15 +16,12 @@ body {
 .navitem {
     display: inline;
     text-decoration: none;
+    
+    float:right;
 }
 
-p.navtitle {
+.navtitle {
     float: left;
-    height: 18px;
-}
-p.navitem {
-    float:right;
-    height: auto;
 }
 
 .top-cloud {
