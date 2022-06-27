@@ -3,7 +3,16 @@ body {
     text-align: center;
 }
 
+.navbar {
+    position:absolute;
+    top:0;
+    background-color: aquamarine;
+}
 
+.navbaritem {
+    display: inline;
+    text-decoration: none;
+}
 
 .top-cloud {
     position: absolute;
@@ -29,7 +38,9 @@ body {
 
 .top-container {
     height: 100%;
+    font-size: 
 }
+
 
 .middle-container {
 }
