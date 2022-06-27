@@ -6,8 +6,9 @@ body {
 .navbar {
     position:absolute;
     top:0;
-    background-color: aquamarine;
+    background-color: #6C9AFA;
     width:100%;
+    box-shadow: 10px 10px 5px lightblue;
 }
 
 .navbaritem {
