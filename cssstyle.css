@@ -26,19 +26,19 @@ body {
 }
 
 .top-cloud {
-    position: absolute;
+    position: relative;
     right: 10%;
     top: 10%;
 }
 
 .bottom-cloud {
-    position: absolute;
+    position: relative;
     left: 15%;
     top: 35%;
 }
 
 .extra-cloud {
-    position: absolute;
+    position: relative;
     left: 35%;
     top: 55%;
 }
