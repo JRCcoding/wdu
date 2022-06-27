@@ -18,7 +18,7 @@ body {
     text-decoration: none;
 }
 
-h3.navitem {
+p.navtitle {
     float: left;
     height: 18px;
 }
