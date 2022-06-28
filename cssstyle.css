@@ -10,6 +10,7 @@ body {
     width:100%;
     height: 60px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    z-index: 1;
 }
 
 .navtitle {
@@ -27,24 +28,20 @@ body {
     font-size: 22px;
 }
 
-.top-container {
-    display: block;
-}
-
 .top-cloud {
-    position: static;
+    position: absolute;
     right: 20%;
     top: 35%;
 }
 
 .bottom-cloud {
-    position: relative;
+    position: absolute;
     left: 15%;
     top: 35%;
 }
 
 .extra-cloud {
-    position: relative;
+    position: absolute;
     left: 35%;
     top: 55%;
 }
@@ -52,7 +49,7 @@ body {
 .mountainimg {
     margin-top: 22%;
     height: 500px;
-    width: 650px;
+    width: 850px;
 }
 
 
