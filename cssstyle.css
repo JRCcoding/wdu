@@ -20,20 +20,18 @@ body {
     font-size: 22px;
     font-family: 'Roboto', sans-serif;
     height: 100%;
-    margin: 0;
+    margin: 5px 5px;
     text-decoration: none;
-    padding: 5px 5px;
 }
 
 .navitem {
     display: inline;
     text-decoration: none;
     float:right;
-    padding: 5px 5px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     height: 100%;
-    margin: 0;
+    margin: 5px 5px;
 }
 
 .navitem:hover {
