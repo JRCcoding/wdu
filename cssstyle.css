@@ -8,7 +8,7 @@ body {
     top:0;
     background-color: #6C9AFA;
     width:100%;
-    height: 30px;
+    height: 60px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -16,7 +16,7 @@ body {
     float: left;
     margin: 5px 10px;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .navitem {
@@ -24,6 +24,7 @@ body {
     text-decoration: none;
     float:right;
     padding: 0 5px;
+    font-size: 22px;
 }
 
 .top-container {
