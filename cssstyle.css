@@ -18,6 +18,7 @@ body {
     margin: 5px 10px;
     color: #ffffff;
     font-size: 22px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .navitem {
@@ -26,6 +27,7 @@ body {
     float:right;
     padding: 0 5px;
     font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .top-cloud {
