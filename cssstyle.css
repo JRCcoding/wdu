@@ -64,8 +64,6 @@ body {
     width: 850px;
 }
 
-
-.dev {
-    text-decoration: underline;
+.middle-container {
+    font-family: 'Roboto Condensed', sans-serif;
 }
-
