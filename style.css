@@ -78,7 +78,7 @@ body {
 .top-container h2 {
     font-size: 80px;
     font-family: 'Roboto Condensed', sans-serif;
-    margin-top: -50%;
+    margin: 10% 0 0 30%;
 }
 
 .middle-container {
