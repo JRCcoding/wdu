@@ -67,6 +67,8 @@ body {
 .middle-container {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
+    width: 80%;
+    margin: 2% 10%;
 }
 .middle-container p {
     padding-left: 5%;
