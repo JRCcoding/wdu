@@ -42,7 +42,7 @@ body {
     background-color: #4B8CF2;
 }
 
-.top-cloud {
+/* .top-cloud {
     position: absolute;
     right: 20%;
     top: 35%;
@@ -58,22 +58,22 @@ body {
     position: absolute;
     left: 35%;
     top: 55%;
-}
+} */
 
 .prof {
     border: 5px solid darkgray;
     border-radius: 5%;
 }
 
-.mountainimg {
+/* .mountainimg {
     height: 500px;
     width: 850px;
-}
+} */
 
 
 .top-container h2 {
     font-size: 50px;
-    padding: 20px 0 0 0;
+    padding: 40px 0 0 0;
     font-family: 'Roboto Condensed', sans-serif;
 }
 
