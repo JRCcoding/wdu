@@ -60,6 +60,11 @@ body {
     top: 55%;
 }
 
+.prof {
+    margin-top: 5%;
+    border:rgba(0, 0, 0, 0.19) solid 1px 2px;
+}
+
 .mountainimg {
     margin-top: 24%;
     height: 500px;
