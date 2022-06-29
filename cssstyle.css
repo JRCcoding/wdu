@@ -67,11 +67,13 @@ body {
 }
 
 .mountainimg {
-    margin-top: 12%;
     height: 500px;
     width: 850px;
 }
 
+.top-container h2 {
+    font-size: 50px;
+}
 .middle-container {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
@@ -86,5 +88,5 @@ body {
     
 .middle-container h2 {
     padding-left: 10%;
-    font-size: 60px;
+    font-size: 50px;
 }
