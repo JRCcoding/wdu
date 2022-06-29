@@ -64,6 +64,7 @@ body {
     border: 5px solid darkgray;
     border-radius: 50%;
     margin: 0;
+    display: inline;
     float: top;
     top: 15%;
 }
