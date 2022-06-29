@@ -68,6 +68,8 @@ body {
 
 .top-container {
     display: inline-block;
+    width: 45%;
+    margin-top: 3.5%;
 }
 
 .prof {
