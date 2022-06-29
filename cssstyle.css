@@ -72,12 +72,13 @@ body {
 } */
 
 
+
 .top-container h2 {
     font-size: 50px;
     font-family: 'Roboto Condensed', sans-serif;
     display: inline;
     margin-bottom: 5%;
-
+    position: relative;
 }
 
 .middle-container {
