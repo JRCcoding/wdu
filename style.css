@@ -42,6 +42,10 @@ body {
     background-color: #4B8CF2;
 }
 
+.navitem:active {
+    background-color: #4B8CF2;
+}
+
 /* .top-cloud {
     position: absolute;
     right: 20%;
