@@ -68,3 +68,10 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
 }
+.middle-container p {
+    padding-left: 5%;
+}
+    
+.middle-container h2 {
+    padding-left: 10%;
+}
