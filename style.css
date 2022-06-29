@@ -74,6 +74,7 @@ body {
     border: 2px solid black;
     border-radius: 50%;
     float: left;
+    padding-top: 10%;
 }
 
 .top-container h2 {
