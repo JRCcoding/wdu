@@ -73,9 +73,9 @@ body {
 
 .top-container h2 {
     font-size: 50px;
-    float: right;
-    margin-right: 10%;
+    margin: 5% 0 15% 0;
 }
+
 .middle-container {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
