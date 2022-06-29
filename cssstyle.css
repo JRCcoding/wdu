@@ -73,6 +73,8 @@ body {
 
 .top-container h2 {
     font-size: 50px;
+    float: right;
+    margin-right: 10%;
 }
 .middle-container {
     font-family: 'Roboto Condensed', sans-serif;
