@@ -60,6 +60,7 @@ body {
     float: left;
     height: 300px;
     width: 300px;
+    filter: grayscale(100%);
 }
 
 .top-container h2 {
