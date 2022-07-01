@@ -52,6 +52,7 @@ body {
     display: inline-block;
     width: 70%;
     padding: 5% 15%;
+    border: 2px solid black;
 }
 
 .prof {
