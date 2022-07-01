@@ -110,6 +110,8 @@ body {
 
 ul {
     list-style: none;
+    text-decoration: none;
+    color: #FFEDDF;
 }
 
 .form {
