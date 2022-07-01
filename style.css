@@ -46,6 +46,15 @@ body {
     background-color: #661a16;
 }
 
+.prof {
+    border: 2px solid black;
+    border-radius: 50%;
+    float: left;
+    height: 300px;
+    width: 300px;
+    filter: grayscale(100%);
+    margin-left: 20%;
+}
 
 
 .top-container {
@@ -56,14 +65,6 @@ body {
     border: 2px solid black;
 }
 
-.prof {
-    border: 2px solid black;
-    border-radius: 50%;
-    float: left;
-    height: 300px;
-    width: 300px;
-    filter: grayscale(100%);
-}
 
 .top-container h2 {
     font-size: 80px;
