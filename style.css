@@ -51,8 +51,7 @@ body {
 .top-container {
     display: inline-block;
     width: 70%;
-    padding: 5% 15%;
-    border: 2px solid black;
+    margin: 5% 15%;
 }
 
 .prof {
