@@ -141,13 +141,18 @@ a.contact {
     }
     .top-container {
         width: 60%;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
     }
     .middle-container {
         width: 60%;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
     }
     .prof {
         height: 60%;
         width: 60%;
+        margin-top: 15%;
     }
     .top-container h2 {
         font-size: 40px;
