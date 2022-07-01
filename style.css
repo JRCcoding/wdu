@@ -4,6 +4,8 @@ body {
     background-color: #3d3d3d;
 }
 
+                                                /*NAVBAR*/
+
 .navbar {
     position:fixed;
     top:0;
@@ -46,6 +48,9 @@ body {
     background-color: #661a16;
 }
 
+
+                                                /*MAIN*/
+
 .prof {
     border: 2px solid black;
     border-radius: 50%;
@@ -76,9 +81,6 @@ body {
     margin-right: 20%;
 }
 
-li {
-    text-decoration: none;
-}
 .middle-container {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
@@ -97,6 +99,17 @@ li {
     font-size: 50px;
     margin-top: 3%;
     color: #FFEDDF;
+}
+
+                                                /*CONTACT*/
+
+li {
+    text-decoration: none;
+}
+
+.form {
+	background-color: #333333;
+	border: 2px black solid;
 }
 
 @media only screen and (max-width: 600px) {
