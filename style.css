@@ -71,6 +71,9 @@ body {
     margin-right: 20%;
 }
 
+ul {
+    text-decoration: none;
+}
 .middle-container {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
