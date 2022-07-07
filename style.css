@@ -93,6 +93,18 @@ body {
     border-top: none;
     margin-top: -4px;
 }
+button {
+    border: none;
+}
+
+button:focus {
+    border: none;
+    outline: none;
+}
+
+button:focus{
+    outline:none;
+}
 .devTxt{
     padding-left: 5%;
     font-size: 30px;
