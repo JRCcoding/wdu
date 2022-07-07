@@ -93,7 +93,7 @@ body {
     border-top: none;
     margin-top: -4px;
 }
-#devTxt{
+.devTxt{
     padding-left: 5%;
     font-size: 30px;
     text-indent: 20px;
