@@ -1,5 +1,5 @@
 function webDevTxt () {
-    var x = document.getElementsByClassName("devTxt");
+    var x = document.getElementById("devTxt");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
