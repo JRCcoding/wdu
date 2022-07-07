@@ -116,6 +116,13 @@ body {
     display: none;
 }
 
+#desTxt {
+    padding-left: 5%;
+    font-size: 30px;
+    text-indent: 20px;
+    color: #FFEDDF;
+    display: none;
+}
 
     
 .middle-container h2 {

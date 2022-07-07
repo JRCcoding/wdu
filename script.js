@@ -6,3 +6,12 @@ function webDevTxt () {
         x.style.display = "none";
     }
 }
+
+function digitalDesign() {
+    var z = document.getElementById("desTxt");
+    if (z.style.display === "none") {
+        z.style.display = "block";
+    } else {
+        z.style.display = "none";
+    }
+}
