@@ -15,3 +15,12 @@ function digitalDesign() {
         z.style.display = "none";
     }
 }
+
+function familyMan() {
+    var y = document.getElementById("famMan");
+    if (y.style.display === "none") {
+        y.style.display = "block";
+    } else {
+        y.style.display = "none";
+    }
+}
