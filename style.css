@@ -96,7 +96,7 @@ body {
 .middle-container button {
     border: none;
     background-color: #292929;
-    width: 100%;
+    width: 25%;
 }
 
 .middle-container button:focus {
