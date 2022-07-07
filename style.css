@@ -93,12 +93,15 @@ body {
     border-top: none;
     margin-top: -4px;
 }
-.middle-container p {
+#devTxt{
     padding-left: 5%;
     font-size: 30px;
     text-indent: 20px;
     color: #FFEDDF;
+    display: none;
 }
+
+
     
 .middle-container h2 {
     padding-left: 10%;
