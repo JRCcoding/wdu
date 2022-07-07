@@ -96,7 +96,7 @@ body {
 .middle-container button {
     border: none;
     background-color: #292929;
-    width: 30%;
+    width: 35%;
 }
 
 .middle-container button:focus {
@@ -109,7 +109,7 @@ body {
 }
 
 .rightbutton {
-    margin-left: 70%;
+    margin-left: 65%;
 }
 
 #devTxt {
