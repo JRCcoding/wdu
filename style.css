@@ -93,16 +93,16 @@ body {
     border-top: none;
     margin-top: -4px;
 }
-button {
+.middle-container button {
     border: none;
 }
 
-button:focus {
+.middle-container button:focus {
     border: none;
     outline: none;
 }
 
-button:focus{
+.middle-container button:focus{
     outline:none;
 }
 .devTxt{
