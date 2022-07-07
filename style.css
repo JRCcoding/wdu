@@ -96,6 +96,7 @@ body {
 .middle-container button {
     border: none;
     background-color: lightslategrey;
+    width: auto;
 }
 
 .middle-container button:focus {
@@ -106,7 +107,8 @@ body {
 .middle-container button:focus{
     outline:none;
 }
-#devTxt{
+
+#devTxt {
     padding-left: 5%;
     font-size: 30px;
     text-indent: 20px;
