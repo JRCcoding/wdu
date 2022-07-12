@@ -136,6 +136,9 @@ body {
     display: none;
 }
 
+button {
+    border-radius: 2%;
+}
     
 .middle-container h2 {
     padding-left: 10%;
