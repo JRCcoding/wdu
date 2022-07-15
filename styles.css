@@ -1,0 +1,149 @@
+@font-face {
+    font-family: ibmPlex;
+    src: url(IBMPlex.ttf);
+}
+
+* {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+#navbar {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    background-color:rgb(240, 240, 240);
+    background-color: #e2e2ec;
+    
+}
+
+#navlinks {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style: none;
+    font-family: ibmPlex;
+}
+
+#navlink {
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    transition-property: background-color;
+    transition-duration: 1s;
+}
+
+#navlink:hover {
+    background-color:rgb(50, 50, 50);
+}
+
+body {
+}
+
+#wrapper {
+    font-family: ibmPlex;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: rgb(240, 240, 240);
+    /* background-image: url("images/computer.jpg");
+    background-size: 100% 47%;
+    background-repeat: no-repeat; */
+}
+
+#top-section {
+    margin-top: 50px;
+    width: 40%;
+} @keyframes fadein {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+#top-section > h1 {
+    font-size: 60px;
+    animation-duration: 5s;
+    animation-name: fadein;
+    text-align: right;
+}
+#top-section > h3 {
+    text-align: right;
+    font-size: 30px;
+    animation-duration: 5s;
+    animation-name: fadein;
+}
+#top-section > p {
+    font-size: 20px;
+    height: 250px;
+    margin-top: 50px;
+} @media (max-width: 600px) {
+    #top-section > p {
+        height: 100%;
+    }
+    #top-section {
+        width: 60%;
+    }
+}
+
+
+.sectitle {
+    text-align: left;
+    font-size: 45px;
+}
+
+.sectext {
+    font-size: 45px;
+}
+
+
+
+.mainsec {
+    padding: 5%;
+    width: 75%;
+    margin-bottom: 5%;
+    background-color: #e2e2ec;
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+#About {
+    font-size: 25px;
+    margin-top: 8%;
+}
+
+#Contact {
+    font-size: 25px;
+}
+#contacts {
+    display: flex;
+    flex-direction: column;
+}
+#contactitem {
+    text-decoration: none;
+    color: black;
+}
+#Links {
+    padding: 2%;
+    margin-bottom: 0;
+    height: 20px;
+    width: 400px;
+}
+#list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 7%;
+}
+
+#link {
+    text-decoration: none;
+    list-style: none;
+    width: 100%;
+    color:black;
+}

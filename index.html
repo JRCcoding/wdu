@@ -1,51 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Josh Claxton</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="favicon.ico"> <!--?v=2-->
-                        <!--Google fonts-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto+Condensed:wght@300&family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <script src="script.js"></script>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+            <!--GOOGLE FONT-->
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Albert+Sans&display=swap" rel="stylesheet">
+        <title>Josh Claxton</title>
+        <script src="scripts.js"></script>
+    </head>
+    <body>
 
-</head>
-<body>
+        <header>
+            <nav id="navbar">
+                <ul id="navlinks">
+                    <li><a href="#About" id="navlink">About</a></li>
+                    <li><a href="#Contact" id="navlink">Contact</a></li>
+                    <li><a href="#Links" id="navlink">Links</a></li>
+                </ul>
+            </nav>
+        </header>
 
-    <div class="navbar">
+        <div id="wrapper">
+            <main id="main">
+                <section id="top-section"><h1>Josh Claxton,</h1><h3>web developer.</h3>
+                    <p>HTML, CSS, JavaScript. I can create personalized web pages down to the pixel. Custom coded webpages means full customization! Contact me and we can get to work!</p>
+                    <p>I create startups and webpages to help new products land in their market, I help new restaurants get their name and information out there in a beautiful way, I help small businesses reach their clients.</p>
+                </section>
 
-        <a class="navtitle" href="index.html"><span class="long-title">J. Claxton - Web DEVeloper & Designer</span><span class="short-title">Claxton</span></a>
-        <!-- <a class="navitem" href="contactme.html"><span class="contact">Contact</span><span class="mes"> Me</span></a> -->
-        <a class="navitem" href="aboutme.html"><span class="about">About</span> <span class="mes"> Me</span></a>
+                <section id="About" class="mainsec">
+                    <h1 class="sectitle">About</h1>
+                    <p id="sectext">My name is Josh Claxton. If my childhood taught me anything, it's that the small things can amount to greatness. I try to use this in my everyday life, including my work life. Sometimes it really is the little things, even when it comes to development. One small change can end up fixing the entire look of any page/design.</p><br><br>
+                    <p id="sectext">Family is first for me and always will be. I can't thank the universe enough for the things I have in life; a beautiful loving wife (Lauryn), 3 amazing children (Dominic, Clifford and Ivy), and a wonderful dog (Falco). This family inspires me to be the best version of me!</p><br><br>
+                    <p id="sectext">I am a VTeamer by day, web developer by night. I work for Verizon as a Customer Service Representative, and I am taken back every day by how amazing my company is, and I am grateful for my position and opportunities in the company. </p>
+                </section>
 
-    </div>
+                <section id="Contact" class="mainsec">
+                    <h1 class="sectitle">Contact</h1>
+                    <p id="sectext">I always try to keep the possibility for more connections and contact open! Please reach out any way possible and I will get back to you!</p><br><br>
+                    <ul id="contacts">
+                        <li><a href="mailto:jrccode@outlook.com" id="contactitem">jrccode@outlook.com</a></li>
+                        <li><a href="https://www.instagram.com/jrccode/" id="contactitem">Instagram</a></li>
+                        <li><a href="https://github.com/jrccoding" id="contactitem">GitHub</a></li>
+                        <li><a href="https://www.linkedin.com/in/josh-claxton-054945217/" id="contactitem">LinkedIn</a></li>
+                    </ul>
+                </section>
 
-    <div class="top-container">
-        <img class="prof" src="images/profile-img2.png" alt="profile image">
-        <h2><b>Josh Claxton</b></h2>
-    </div><div class="middle-container">
-        <hr><button onclick="webDevTxt()"><h2>Web <span style="text-decoration:underline">Dev</span>eloper</h2></button><hr>
-        <p id="devTxt">I am a VTeamer by day, web developer by night. I strive for excellence and the never ending game of perfection. I won't ever be perfect, but I aim to be close. I can do anything I set my mind to, and my mind is locked in on making beautiful easily accessible web pages for the world to see and use.
-        I think the world is moving in a beautiful direction in regards to the internet and technology itself. With all of the advancements we've made in the last 15 years, I see web development getting bigger and bigger.
-        Something I always like to say to myself is that any progress is good progress, and the world has been making excellent progress lately. We are getting closer and closer to allowing everybody the ability to connect to the rest of the world. With all of the newcomers to the web, they need some beautiful pages to view. Allow me to make yours, and you won't regret it.
-        Contact me via email at <a href="mailto:jrccode@outlook.com">jrccode@outlook.com</a>. Let's make something happen!</p>
-
-        <button onclick="digitalDesign()" class="rightbutton"><h2>Digital Designer</h2></button><hr>
-        <p id="desTxt">I also do plenty of different digital designs. I will fill this out soon!</p>
-
-
-        <button onclick="familyMan()"><h2>Family Man</h2></button><hr>
-        <p id="famMan">I will have tons of content for here, my family is my pride and joy.</p>
-    </div>
-
-
-
-    <div class="footer">
-        <p>TY -Josh</p>
-    </div>
-</body>
+                <section id="Links" class="mainsec">
+                    <ul id="list">
+                        <li><a href="https://josh-claxton.com" id="link">josh-claxton.com</a></li>
+                        <li><a href="https://github.com/jrccoding" id="link">GitHub</a></li>
+                        <li><a href="#" id="link">Instagram</a></li>
+                    </ul>
+                </section>
+            </main>
+        </div>
+    </body>
 </html>
