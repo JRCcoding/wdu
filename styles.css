@@ -144,6 +144,7 @@
 
 #Contact {
     font-size: 25px;
+    margin-bottom: 15%;
 }
 #contacts {
     display: flex;
@@ -152,24 +153,4 @@
 #contactitem {
     text-decoration: none;
     color: black;
-}
-#Links {
-    padding: 2%;
-    margin-bottom: 0;
-    height: 20px;
-    width: 400px;
-}
-#list {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-right: 7%;
-}
-
-#link {
-    text-decoration: none;
-    list-style: none;
-    width: 100%;
-    color:black;
 }
